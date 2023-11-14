@@ -1,6 +1,7 @@
 # FPS Shooter Game
 
 ![Image of the game's title screen](https://github.com/OmKumar07/Fps-Shooter-Unity/blob/main/Screenshots/Screenshot1.png?raw=true)
+<img src="https://github.com/OmKumar07/Fps-Shooter-Unity/blob/main/Screenshots/Screenshot1.png?raw=true" width="100" height="100">
 
 ## Table of Contents
 
