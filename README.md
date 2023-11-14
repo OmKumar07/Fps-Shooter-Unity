@@ -57,6 +57,6 @@ Please feel free to contact us if you have any questions or feedback.
 
 ## Images
 
-[Image of a player battling against AI enemies](https://example.com/enemies.png)
-[Image of a player exploring a diverse environment](https://example.com/environment.png)
-[Image of a player utilizing tactical gameplay mechanics](https://example.com/tactics.png)
+![Image of a player battling against AI enemies](https://github.com/OmKumar07/Fps-Shooter-Unity/blob/main/Screenshots/Screenshot2.png?raw=true)
+![Image of a player exploring a diverse environment](https://github.com/OmKumar07/Fps-Shooter-Unity/blob/main/Screenshots/Screenshot3.png?raw=true)
+![Image of a player utilizing tactical gameplay mechanics](https://github.com/OmKumar07/Fps-Shooter-Unity/blob/main/Screenshots/Screenshot4.png?raw=true)
