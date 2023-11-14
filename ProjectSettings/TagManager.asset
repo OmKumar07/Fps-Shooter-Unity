@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FPS Player
+  - First Person Player
+  - AI
+  - Weapon
+  - WeaponCamera
+  - WeaponLayer
+  - Target
+  - FxTemporaire
+  - Ladder
+  - Metal
+  - ExplosiveBarrel
+  - HUDCanvas
+  - Enemy
+  - Ground
+  - Concrete
+  - Wood
+  - Matle
+  - Turret
+  - Tank
+  - Targets
+  - Dynamite
+  - WoodBox
+  - Empty
+  - TDMenemy
+  - TDMfriend
+  - AiCam
+  - Tips
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Weapons
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

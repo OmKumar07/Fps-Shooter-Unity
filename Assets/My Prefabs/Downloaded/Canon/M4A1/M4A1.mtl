@@ -1,0 +1,75 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl studio.M4a1.smd.mesh_01
+Ka  0.4 1.0 0.4
+Kd  0.4 1.0 0.4
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  7.0
+illum 2
+map_Kd glass.tga
+#
+newmtl studio.M4a1.smd.mesh_02
+Ka  0.4 1.0 0.4
+Kd  0.4 1.0 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.4
+illum 2
+map_Kd EOTECH.tga
+#
+newmtl studio.M4a1.smd.mesh_03
+Ka  0.4 0.9 0.4
+Kd  0.4 0.9 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  5.4
+illum 2
+map_Kd mount.tga
+#
+newmtl studio.M4a1.smd.mesh_04
+Ka  0.4 1.0 0.4
+Kd  0.4 1.0 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.0
+illum 2
+map_Kd bbullet.tga
+#
+newmtl studio.M4a1.smd.mesh_05
+Ka  0.4 0.9 0.5
+Kd  0.4 0.9 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  5.0
+illum 2
+map_Kd cmag.tga
+#
+newmtl studio.M4a1.smd.mesh_06
+Ka  0.4 0.9 0.4
+Kd  0.4 0.9 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.0
+illum 2
+map_Kd Map3.tga
+#
+newmtl studio.M4a1.smd.mesh_07
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.9
+illum 2
+map_Kd Map2.tga
+#
+newmtl studio.M4a1.smd.mesh_08
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.3
+illum 2
+map_Kd Map1.tga
+#
+# EOF
