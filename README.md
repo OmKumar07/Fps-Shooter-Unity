@@ -32,7 +32,7 @@ This is an intense, single-player FPS shooter game for PC. You take on the role 
 
 ## Installation
 
-To install the game, simply download the ZIP file from the Releases section and extract it to your desired location. Then, run the game executable file.
+To install the game, simply [download](https://github.com/OmKumar07/Fps-Shooter-Unity/releases/tag/FinalRelease) the ZIP file from the Releases section and extract it to your desired location. Then, run the game executable file.
 
 ## Usage
 
