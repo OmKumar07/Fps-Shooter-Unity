@@ -1,0 +1,7 @@
+							Extract The Files USing WinRar : 
+			
+
+
+			Fps-Shooter-Unity\Assets\Animation\Enemy\Slim Shooter Pack\Swat2\Ch15_nonPBR.part1.rar
+
+			Fps-Shooter-Unity\Assets\Animation\Enemy\Slim Shooter Pack\Swat3\Ch35_nonPBR.part1.rar
