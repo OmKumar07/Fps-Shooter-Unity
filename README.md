@@ -9,8 +9,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Controls](#controls)
-* [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 * [Images](#images)
 
@@ -21,6 +19,8 @@ This is an intense, single-player FPS shooter game for PC. You take on the role 
 ## Features
 
 * **Gripping Single-Player Campaign:** Embark on a captivating single-player campaign filled with thrilling objectives, dynamic environments, and relentless AI adversaries.
+
+* **AI TDM Mode:** It also has a ai team death match mode with AI teammates and enemies.
 
 * **Diverse Arsenal of Weapons:** Master a wide range of weapons, from close-quarters shotguns to long-range sniper rifles, each with unique characteristics and tactical applications.
 
@@ -49,13 +49,7 @@ The game uses the following controls:
 * Left Ctrl - Crouch
 * Esc - Pause
 
-## Contributing
 
-We welcome contributions from the community. If you would like to contribute to the game, please fork the repository and create a pull request with your changes.
-
-## License
-
-This game is licensed under the MIT License.
 
 ## Contact
 
