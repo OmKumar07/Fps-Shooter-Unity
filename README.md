@@ -1,6 +1,6 @@
 # FPS Shooter Game
 
-[Image of the game's title screen](https://example.com/title-screen.png)
+[Image of the game's title screen](https://github.com/OmKumar07/Fps-Shooter-Unity/blob/main/screenshot(53).png?raw=true)
 
 ## Table of Contents
 
